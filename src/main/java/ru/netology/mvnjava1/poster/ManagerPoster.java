@@ -3,7 +3,10 @@ package ru.netology.mvnjava1.poster;
 public class ManagerPoster {
 
     private String[] movies = new String[0];
+
+
     private int limit;
+
 
     public ManagerPoster() {
 
